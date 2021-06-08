@@ -51,6 +51,9 @@ body {
 .button-text {
   vertical-align: middle;
 }
+.button-more {
+  margin-top: 40px;
+}
 .hero-title {
   font-size: 44px;
   line-height: 53px;
